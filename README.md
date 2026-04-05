@@ -7,3 +7,4 @@ contract ResetMessage {
     string public message;
     function reset() public { message = ""; }
 }
+Clean up unused code
