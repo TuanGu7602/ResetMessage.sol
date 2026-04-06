@@ -8,3 +8,4 @@ contract ResetMessage {
     function reset() public { message = ""; }
 }
 Clean up unused code
+Finalize contract structure
