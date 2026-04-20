@@ -12,3 +12,4 @@ Finalize contract structure
 Remove redundant checks
 Enhance security validation
 Adjust gas optimization logic
+Add basic tests
